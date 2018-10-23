@@ -1,4 +1,4 @@
-# guesswho
+# GuessWho
 CNN classification playground
 
 Two person(female/male) to distinguish
