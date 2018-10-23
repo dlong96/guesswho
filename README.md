@@ -1,5 +1,5 @@
 # GuessWho
-CNN classification playground
+**CNN classification playground**
 
 Two person(female/male) to distinguish
 
