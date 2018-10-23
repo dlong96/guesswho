@@ -5,9 +5,9 @@ Two person(female/male) to distinguish
 
 50 image per class
 
-1. one hidden layer, fully connected model.
+1.one hidden layer, fully connected model
 
-2. cnn with 3conv layer,one pooling
+2.cnn with 3conv layer,one pooling
 
 3.more conv layer cnn
 
