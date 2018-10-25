@@ -3,8 +3,8 @@
 
 Inspired by draw guess game and The Simpson characters recognization by Akexabdre Attia
 
-![input](https://github.com/minibutterbread/guesswho/blob/master/IMG_0195.jpg)
-![result](https://github.com/minibutterbread/guesswho/blob/master/IMG_0196.jpg)
+![input](https://github.com/minibutterbread/guesswho/handdraw/IMG_0195.jpg)
+![result](https://github.com/minibutterbread/guesswho/handdraw/IMG_0196.jpg)
 
 
 
