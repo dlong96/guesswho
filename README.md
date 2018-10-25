@@ -1,5 +1,12 @@
 # GuessWho
 **CNN classification playground**
+Inspired by draw guess game and The Simpson characters recognization by Akexabdre Attia
+https://github.com/minibutterbread/guesswho/blob/master/IMG_0195.jpg
+https://github.com/minibutterbread/guesswho/blob/master/IMG_0195.jpg
+
+
+
+
 
 Two person(female/male) to distinguish
 
