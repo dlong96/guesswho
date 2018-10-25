@@ -1,7 +1,7 @@
 # GuessWho
 **CNN classification playground**
 
-Inspired by draw guess game and The Simpson characters recognization by Akexabdre Attia.
+Inspired by draw guess game and The Simpson characters recognization by Akexabdre Attia.<br/>
 I trained on ~100 pictures I got from google imgae of real bottle, and ~100 pircture of everything else. For test set, I invited friend to send me over their hand draw bottle,~20 images.<br/>
 The perdictions were all right, and in handdraw folder there are a few more result images. I am aware the structure of bottle is relatively simple, which is the reason I pick it as the first place.
 ![input](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG_0195.jpg)
@@ -10,8 +10,8 @@ The perdictions were all right, and in handdraw folder there are a few more resu
 
 
 
-I decide to use more complex image, and for the reason of easy assessing, selfie is my choice.
-**Task**
+I decide to use more complex image, and for the reason of easy assessing, selfie is my choice.<br/>
+**Task**<br/>
 Two person(female/male) to distinguish
 
 50 image per class
