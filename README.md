@@ -3,9 +3,9 @@
 
 Inspired by draw guess game and The Simpson characters recognization by Akexabdre Attia
 
-![input](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG_0195.jpg=100x100)
+![input](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG_0195.jpg)
 
-![result](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG_0195.jpg)
+![result](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG_0196.jpg)
 
 
 
