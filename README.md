@@ -28,6 +28,6 @@ Two person(female/male) to distinguish
 5.resNet-like structure
 
 
-6.training images contains indidual person as main parts, use sigmoid as muti-label output, see the result of test image with two person init.
+6.training images contains individual person as main parts, use sigmoid as muti-label output, see the result of test image with two person init.
 
 7.dataset inbalence: double the size of one class, see weather simply copy image of the other class to make up the size difference work or not.
