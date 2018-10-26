@@ -11,15 +11,15 @@ I am aware the structure of bottle is relatively simple, which is the reason I p
 
 
 
-I decide to use more complex image, </del>and for the reason of easy assessing, selfie is my choice.<br/></del>
+I decide to use more complex image, <del>and for the reason of easy assessing, selfie is my choice.<br/></del>
 **Task**<br/>
 <del>Two person(female/male) to distinguish</del>
 
 <del>50 image per class</del>
 
-The result from tf.ipynb showed the train_acc and val_acc fluctuate a lot. The main reason that I suspect is the size of my dataset.</del>
+The result from tf.ipynb showed the train_acc and val_acc fluctuate a lot. The main reason that I suspect is the size of my dataset.<br/>
 I also used VGG16 with extra dense layer as our classifer, but the train_acc and val_acc also fluctuate a lot.
-Ideally, we want see a relative smooth increasing or decresing trend for first 5 epochs of each case listed. so I decided to my dataset switch to cifar10.</del>
+Ideally, we want see a relative smooth increasing or decresing trend for first 5 epochs of each case listed. so I decided to my dataset switch to cifar10.<br/>
 
 1.one hidden layer, fully connected model
 
