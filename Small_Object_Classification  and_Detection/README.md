@@ -18,6 +18,4 @@ muticlass_predit_all.py: feed in a batch of test images, and predict them all. v
 
 test_over_sample.py:  test time augmentation, crop 4 corners and center of test image, add on horizontal flip, and average the predicted possibilities.
 
-
-**Observation:**
-Dataset contains a female and a male. I started with person(upper part) occupy the center of picture with little background. The Model didn't seem to recognize the same person with different color outfit. Later, I use click_and_crop.py to crop the face out of the orginal picture, and only use cropped images as training data. The accuracy was hugh improved.
+Result: 94% f1 score. 11class with ~20image per class, ~8 test image.  test image and train image are cropped from same video, so under similar light condition, similar background.

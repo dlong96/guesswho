@@ -12,6 +12,13 @@ I am aware the structure of bottle is relatively simple, which is the reason I p
 
 
 I decide to use more complex image, <del>and for the reason of easy assessing, selfie is my choice.</del>**Change to cifar10**<br/>
+<del>
+**Observation:**
+Dataset contains a female and a male. I started with person(upper part) occupy the center of picture with little background. The Model didn't seem to recognize the same person with different color outfit. Later, I use click_and_crop.py to crop the face out of the orginal picture, and only use cropped images as training data. The accuracy was hugh improved.</del>
+
+
+
+
 **Task**<br/>
 <del>Two person(female/male) to distinguish</del>
 
