@@ -31,7 +31,8 @@ Ideally, we want see a relative smooth increasing or decresing trend for first 5
 
 5.resNet-like structure
 
+6. Look at wrong predicted images. Plot image with high confidence score, but actually belong to another class. Plot images with probabilty close to 0.5.
 
-6.training images contains individual person as main parts, use sigmoid as muti-label output, see the result of test image with two person init.
+7.training images contains individual person as main parts, use sigmoid as muti-label output, see the result of test image with two person init.
 
-7.dataset inbalence: double the size of one class, see weather simply copy image of the other class to make up the size difference work or not.
+8.dataset inbalence: double the size of one class, see weather simply copy image of the other class to make up the size difference work or not.
