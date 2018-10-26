@@ -11,7 +11,7 @@ I am aware the structure of bottle is relatively simple, which is the reason I p
 
 
 
-I decide to use more complex image, <del>and for the reason of easy assessing, selfie is my choice.<br/></del>
+I decide to use more complex image, <del>and for the reason of easy assessing, selfie is my choice.<br/></del>**change to cifar10**
 **Task**<br/>
 <del>Two person(female/male) to distinguish</del>
 
