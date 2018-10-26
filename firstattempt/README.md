@@ -1,6 +1,6 @@
 paths.py: 2 function, image path generator. Use for extracting image path from given directory.
 
-video_to_frame.py: store every 5 frame from video clip.
+video_to_frame.py: store every 5th frame from video clip.
 
 click_and_crop.py: save cropped rectangle area mouse has been dragged.
 
