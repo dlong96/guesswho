@@ -5,9 +5,8 @@ Inspired by draw guess game and The Simpson characters recognization by Akexabdr
 I trained on ~100 pictures I got from google imgae of real bottle, and ~100 pircture of everything else. For test set, I invited friends to send me over their hand draw bottle,~20 images.<br/>
 The perdictions were all right, and in handdraw folder there are a few more result images, if you want to look at them;)<br/>
 I am aware the structure of bottle is relatively simple, which is the reason I pick it as the first place.
-![input](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG_0195.jpg)
+![input](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG.jpg)
 
-![result](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG_0196.jpg)
 
 
 
