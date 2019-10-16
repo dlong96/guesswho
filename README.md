@@ -1,4 +1,4 @@
-# GuessWho
+# GuessWhat
 **CNN classification playground**
 
 Inspired by draw guess game and The Simpson characters recognization by Akexabdre Attia.<br/>
