@@ -2,9 +2,9 @@
 **CNN classification playground**
 
 Inspired by draw guess game and The Simpson characters recognization by Akexabdre Attia.<br/>
-I trained on ~100 pictures I got from google imgae of real bottle, and ~100 pircture of everything else. For test set, I invited friends to send me over their hand draw bottle,~20 images.<br/>
-The perdictions were all right, and in handdraw folder there are a few more result images, if you want to look at them;)<br/>
-I am aware the structure of bottle is relatively simple, which is the reason I pick it as the first place.
+I trained on ~100 pictures I got from google images of a real bottle, and ~100 pictures of random things. For the test set, I invited friends to send me over their hand draw bottle,~20 images.<br/>
+The predictions were all right, and in folder "handdraw" there are a few result images if you want to look at them;)<br/>
+I am aware the structure of the bottle is relatively simple, which is the reason I pick it in the first place.
 ![input](https://github.com/minibutterbread/guesswho/blob/master/handdraw/IMG.jpg)
 
 
